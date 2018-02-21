@@ -42,7 +42,7 @@
                 <label>Email:</label>
                 <asp:TextBox ID="txtemail" class="form-control" runat="server"></asp:TextBox>
               </div>
-            </div>
+            </div> 
                <div class="control-group form-group">
               <div class="controls">
                 <label>Profile Link:</label>
